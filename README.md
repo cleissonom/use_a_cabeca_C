@@ -1,1 +1,1 @@
-### Todos os códigos feitos durante a leitura do livro "Use a Cabeça - C"
+### All codes made while reading the book "Head First - C"
